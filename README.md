@@ -17,7 +17,8 @@ Aspen is a travel UI application designed to showcase a sleek and modern user in
 - 📊 **Responsive Design**: Optimized for various screen sizes to ensure a smooth user experience on different devices.
 
 ## 📸 Screenshots
-![aspen_mockup](https://github.com/user-attachments/assets/7b404055-f3ac-4697-97a6-0cbdf7fc0af8)
+![1](https://github.com/user-attachments/assets/9e0fe677-c806-42c5-80fe-8a1deb888bd8)
+
 
 Include screenshots or GIFs showcasing the UI components.
 
